@@ -26,7 +26,7 @@ This project was created as part of my **Software Engineering education** to pra
 ---
 
 ## 📁 Project Structure
-
+```
 RentaCar
 │  
 ├── Program.cs → Application entry point  
@@ -39,7 +39,7 @@ RentaCar
 │  
 ├── aracbilgileriDataSet.xsd → Dataset definition  
 └── *.Designer.cs → Form design files  
-
+```
 ---
 
 ## 🚀 How to Run
